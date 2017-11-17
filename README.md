@@ -2,9 +2,11 @@
 
 Advanced fee calculator for PayPal payments - built with React
 
+## Screenshot
+
 ![Screenshot](https://raw.githubusercontent.com/overint/paypal-fee-calc/master/screenshot.png)
 
-### Features
+## Features
 
  - Rates for a many regions (as well as custom fee %s)
  - Support for all currencies PayPal supports (including fixed fees) 
