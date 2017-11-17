@@ -1,0 +1,26 @@
+export default {
+    symbols: [
+        {value: "USD", label: "USD"},
+        {value: "AUD", label: "AUD"},
+        {value: "BRL", label: "BRL"},
+        {value: "CAD", label: "CAD"},
+        {value: "CHF", label: "CHF"},
+        {value: "CZK", label: "CZK"},
+        {value: "DKK", label: "DKK"},
+        {value: "EUR", label: "EUR"},
+        {value: "GBP", label: "GBP"},
+        {value: "HKD", label: "HKD"},
+        {value: "HUF", label: "HUF"},
+        {value: "ILS", label: "ILS"},
+        {value: "JPY", label: "JPY"},
+        {value: "MXN", label: "MXN"},
+        {value: "NOK", label: "NOK"},
+        {value: "NZD", label: "NZD"},
+        {value: "PHP", label: "PHP"},
+        {value: "PLN", label: "PLN"},
+        {value: "RUB", label: "RUB"},
+        {value: "SEK", label: "SEK"},
+        {value: "SGD", label: "SGD"},
+        {value: "THB", label: "THB"},
+    ]
+};
