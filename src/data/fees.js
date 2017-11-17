@@ -10,11 +10,11 @@ export default {
         },
         {
             label: "Australia - Domestic Payment",
-            value: 2.2
+            value: 2.6
         },
         {
             label: "Australia - International Payment",
-            value: 3.2
+            value: 3.6
         },
         {
             label: "Canada - Domestic Payment",
