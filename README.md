@@ -2,7 +2,7 @@
 
 Advanced fee calculator for PayPal payments - built with React
 
-*Add Screenshot*
+![Screenshot](https://raw.githubusercontent.com/overint/paypal-fee-calc/master/screenshot.png)
 
 ### Features
 
