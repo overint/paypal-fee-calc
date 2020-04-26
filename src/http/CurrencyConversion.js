@@ -7,7 +7,7 @@ export default {
                 resolve(1);
             });
         }
-        return axios.get(`https://api.fixer.io/latest?base=${from}&symbols=${to}`).then((result => {
+        return axios.get(`https://api.exchangeratesapi.io/latest?base=${from}&symbols=${to}`).then((result => {
             return (result.data.rates[to]);
         }));
     }
